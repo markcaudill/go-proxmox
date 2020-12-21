@@ -1,0 +1,24 @@
+
+mode: atomic
+mode: atomic
+github.com/markcaudill/go-proxmox/proxmox/session.go:52.104,61.16 6 3
+github.com/markcaudill/go-proxmox/proxmox/session.go:65.2,66.9 2 3
+github.com/markcaudill/go-proxmox/proxmox/session.go:70.2,76.39 3 3
+github.com/markcaudill/go-proxmox/proxmox/session.go:79.2,79.21 1 1
+github.com/markcaudill/go-proxmox/proxmox/session.go:61.16,63.3 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:66.9,68.3 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:76.39,78.3 1 2
+github.com/markcaudill/go-proxmox/proxmox/session.go:83.85,85.21 2 3
+github.com/markcaudill/go-proxmox/proxmox/session.go:88.2,90.12 3 3
+github.com/markcaudill/go-proxmox/proxmox/session.go:85.21,87.3 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:101.93,109.16 7 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:124.2,124.16 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:128.2,129.9 2 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:133.2,133.27 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:110.13,111.26 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:112.14,114.27 2 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:115.13,117.26 2 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:118.16,120.29 2 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:121.10,122.59 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:124.16,126.3 1 0
+github.com/markcaudill/go-proxmox/proxmox/session.go:129.9,131.3 1 0
